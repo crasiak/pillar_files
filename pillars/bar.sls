@@ -1,2 +1,2 @@
 blah:
-  test.git.id: 1234
+  test.git_in_subdir.id: 1234
